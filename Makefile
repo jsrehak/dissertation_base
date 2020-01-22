@@ -35,5 +35,5 @@ clean:
                *.lot \
                *.out \
                *.toc \
-	       *.run.xml
-
+	       *.run.xml \
+	       chp/*.aux
